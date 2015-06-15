@@ -1,0 +1,66 @@
+﻿body {
+    background-color:white;
+}
+.Amainviewitems{
+    position:relative;
+}
+.Amainpanelitems {
+    width:400px;
+    height:200px;
+    float:left;
+    margin-left:40px;
+    margin-top:20px;
+}
+
+.btn {
+    margin-left:10px;
+    font-size:20px;
+    width:200px;
+    height:70px;
+}
+
+#Amainmenu {
+    background-color:rgb(34, 49, 63);
+    padding:10px;
+    position:relative;
+}
+
+#Auserdetails {
+    background-color:rgb(52, 73, 94);
+    height:50px;
+
+}
+
+#Aitemone {
+    background-color:rgb(242, 121, 53);
+}
+#Aitemtwo {
+    background-color:rgb(30, 139, 195);
+}
+#Aitemthree {
+    background-color:rgb(1, 152, 117);
+}
+
+
+.Amovieregtxt {
+         padding:10px;
+}
+
+.nav-justified {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#movieregbtn {
+    width:100px;
+    height:40px;
+}
+
+#movieregform,#movieregform {
+    margin-left:auto;
+    margin-right:auto;
+    width:60%;
+}
+.form-group {
+    margin-bottom:5px;
+}

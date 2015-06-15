@@ -1,0 +1,12 @@
+E:\visual studio 2012\web\AdminPanel\AdminPanel\bin\AdminPanel.dll.config
+E:\visual studio 2012\web\AdminPanel\AdminPanel\bin\AdminPanel.dll
+E:\visual studio 2012\web\AdminPanel\AdminPanel\bin\AdminPanel.pdb
+E:\visual studio 2012\web\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csprojResolveAssemblyReference.cache
+E:\visual studio 2012\web\AdminPanel\AdminPanel\obj\Debug\AdminPanel.dll
+E:\visual studio 2012\web\AdminPanel\AdminPanel\obj\Debug\AdminPanel.pdb
+E:\My Development\Asp web project nsbm\Dropbox\AdminPanel\AdminPanel\bin\AdminPanel.dll.config
+E:\My Development\Asp web project nsbm\Dropbox\AdminPanel\AdminPanel\bin\AdminPanel.dll
+E:\My Development\Asp web project nsbm\Dropbox\AdminPanel\AdminPanel\bin\AdminPanel.pdb
+E:\My Development\Asp web project nsbm\Dropbox\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csprojResolveAssemblyReference.cache
+E:\My Development\Asp web project nsbm\Dropbox\AdminPanel\AdminPanel\obj\Debug\AdminPanel.dll
+E:\My Development\Asp web project nsbm\Dropbox\AdminPanel\AdminPanel\obj\Debug\AdminPanel.pdb
